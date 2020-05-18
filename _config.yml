@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: The McComb Foundation
+email: mccomb@psu.edu
+description: "This is a description" # this means to ignore newlines until "baseurl:"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "mccombfoundation.org" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
