@@ -1,6 +1,6 @@
 # Site settings
 title: The McComb Foundation
-email: mccomb@psu.edu
+email: 
 description: "This is a description" # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "mccombfoundation.org" # the base hostname & protocol for your site
